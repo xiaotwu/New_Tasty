@@ -12,11 +12,14 @@ We choose a subset of the Google Restaurants dataset (Google Restaurants), a mul
 Question_Answering_LM/
 │
 │
-├── src/                  		# Source code Folder
-│   ├── Dataset_Exploration.ipynb       # Explore the Dataset
-│   └── xxx.ipynb         		# Model code
+├── src/                  		 # Source code Folder
+│   ├── Image_Review_DataSet.ipynb       # Explore the Dataset
+│   ├── Matrix_Factorization_SVD.ipynb   # Matrix Factorization Collaborative Filtering
+│   ├── N_MF_CF.ipynb        		 # Neural Matrix Factorization Collaborative Filtering
+│   ├── User_Item_CF.ipynb        	 # User Item based Collaborative Filtering
+│   └── xxx.ipynb         		 # Code
 │
-└── README.md              		# Project documentation and instructions
+└── README.md              		 # Project documentation and instructions
 
 ```
 
