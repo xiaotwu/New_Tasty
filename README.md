@@ -6,9 +6,7 @@ We aim to build a multi-modal hybrid recommender system that recommends restaura
 
 We choose a subset of the Google Restaurants dataset (Google Restaurants), a multi-modal dataset derived from Google Maps. This dataset contains restaurant-related information, including user-posted images, reviews, and additional metadata. For our study, we will utilize a subset comprising 30K restaurants, 37K users, 108K reviews, and 203K images. The available metadata includes business_id, user_id, rating, review_text, and images. By leveraging the business_id and user_id, we can map ratings to users, facilitating rating prediction.
 
-The dataset is from [Google Restaurants](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_restaurants).  
-You can download it directly from [here](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restaurants/),  
-or download the required files using the commands below:  
+The dataset is from [Google Restaurants](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_restaurants). You can download it directly from [here](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restaurants/), or download the required files using the commands below:  
 ### 🍎|🐧 For macOS / Linux:
 ```bash
 wget https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restaurants/filter_all_t.json
