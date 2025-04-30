@@ -29,7 +29,7 @@ Question_Answering_LM/
 │   ├── Matrix_Factorization_SVD.ipynb   # Matrix Factorization Collaborative Filtering
 │   ├── N_MF_CF.ipynb        		 # Neural Matrix Factorization Collaborative Filtering
 │   ├── User_Item_CF.ipynb        	 # User Item based Collaborative Filtering
-│   └── N_MF_CF_wTextData.ipynb      # Neural Matrix Factorization Collaborative Filtering with Metadata
+│   └── N_MF_CF_wTextData.ipynb        		 # Neural Matrix Factorization Collaborative Filtering with Metadata
 │
 └── README.md              		 # Project documentation and instructions
 
