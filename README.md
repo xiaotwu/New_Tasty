@@ -24,14 +24,21 @@ curl -O https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restauran
 Question_Answering_LM/
 │
 │
-├── src/                  		 # Source code Folder
-│   ├── Image_Review_DataSet.ipynb       # Explore the Dataset
-│   ├── Matrix_Factorization_SVD.ipynb   # Matrix Factorization Collaborative Filtering
-│   ├── N_MF_CF.ipynb        		 # Neural Matrix Factorization Collaborative Filtering
-│   ├── User_Item_CF.ipynb        	 # User Item based Collaborative Filtering
-│   └── N_MF_CF_wTextData.ipynb        		 # Neural Matrix Factorization Collaborative Filtering with Metadata
+├── src/                  		 		# Source code Folder
+│   ├── Image_Review_DataSet.ipynb       		# Explore the Dataset
+│   ├── Matrix_Factorization_SVD.ipynb   		# Matrix Factorization Collaborative Filtering
+│   ├── N_MF_CF.ipynb        		 		# Neural Matrix Factorization Collaborative Filtering
+│   ├── User_Item_CF.ipynb        	 		# User Item based Collaborative Filtering
+│   ├── UI.ipynb        	 	 		# UI for demo
+│   ├── N_MF_CF_wTextData.ipynb         	 	# Neural Matrix Factorization Collaborative Filtering with Metadata
+│   └── evaluation/         				# Evaluation code Folder
+│	├── N_Fold_Matrix_Factorization_SVD.ipynb       # N fold cross validation for matrix factoraztion
+│ 	├── N_Fold_N_MF_CF_Evaluation.ipynb   		# N fold cross validation for neural matrix factorization
+│ 	├── N_Fold_plot.ipynb   			# Plot results for N fold cross validation 
+│   	└── N_Fold_User_Item_CF.ipynb      		# N fold cross validation for User/Item CF
 │
-└── README.md              		 # Project documentation and instructions
+└── README.md              		 		# Project documentation and instructions
+
 
 ```
 
