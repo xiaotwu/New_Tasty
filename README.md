@@ -9,13 +9,11 @@ We choose a subset of the Google Restaurants dataset (Google Restaurants), a mul
 The dataset is from [Google Restaurants](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_restaurants). You can download it directly from [here](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restaurants/), or download the required files using the commands below:  
 ### For macOS / Linux:
 ```bash
-wget https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restaurants/filter_all_t.json
 wget https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restaurants/image_review_all.json
 ```
 
 ### For Windows (Command Prompt):
 ```cmd
-curl -O https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restaurants/filter_all_t.json
 curl -O https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restaurants/image_review_all.json
 ```
 
