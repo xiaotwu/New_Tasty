@@ -21,7 +21,7 @@ curl -O https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restauran
 
 ## Project Structure
 ```plaintext
-Question_Answering_LM/
+New_Tasty/
 │
 │
 ├── src/                  		 		# Source code Folder
